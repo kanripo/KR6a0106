@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說水沫所漂經
+#+DATE: 2015-08-30 19:31:39.506761
+#+PROPERTY: JUAN 0
